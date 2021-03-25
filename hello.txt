@@ -1,3 +1,4 @@
 hello git
 github working fine now 
 added new
+path added to git.exe in jenkin
